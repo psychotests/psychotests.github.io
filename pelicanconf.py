@@ -19,6 +19,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Other
+## pages
+PAGES_URL = "pages/{slug}.html"
+PAGE_SAVE_AS = "pages/{slug}.html"
+
 # Blogroll
 LINKS = (
     ('Blog', '/blog.html'),
