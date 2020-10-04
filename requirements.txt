@@ -1,2 +1,2 @@
-pelican[Markdown]
+pelican[Markdown]>=4.5<4.6
 ghp-import
